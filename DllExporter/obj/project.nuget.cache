@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z24g4hM93iUSG0FXfvF3P61MwV+2/LaCyLgikc+mYOxORk//35vqKhdLxN6ewwC272tWHVy9kmwPZTF6nQ7vRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abstudio\\source\\repos\\DllExporter\\DllExporter\\DllExporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abstudio\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

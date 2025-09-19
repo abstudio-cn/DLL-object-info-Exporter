@@ -1,0 +1,17 @@
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\DllExporter.exe
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\DllExporter.deps.json
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\DllExporter.runtimeconfig.json
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\DllExporter.dll
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\DllExporter.pdb
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.csproj.AssemblyReference.cache
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.AssemblyInfoInputs.cache
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.AssemblyInfo.cs
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.csproj.CoreCompileInputs.cache
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExpor.F51E290F.Up2Date
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.dll
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\refint\DllExporter.dll
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.pdb
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\DllExporter.genruntimeconfig.cache
+C:\Users\abstudio\source\repos\DllExporter\DllExporter\obj\Release\net8.0\ref\DllExporter.dll
